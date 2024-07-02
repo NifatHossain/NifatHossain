@@ -3,11 +3,11 @@
 - 🔭 I’m currently working **using MERN stack**
 
 - 📫 How to reach me **nifathossain1480@gmail.com**
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=NifatHossain)](https://git.io/streak-stats)
-  
-  
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NifatHossain" alt="GitHub Streak" /></a>
+</div>
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/nifat-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nifat-hossain" height="30" width="40" /></a>
