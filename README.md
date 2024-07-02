@@ -1,7 +1,10 @@
 <h1 align="center">Hello 👋, I'm Nifat Hossain</h1>
 <img src="https://i.ibb.co/KWLcPCH/mern.jpg" alt="mern image" />
 
+##About Me
 - 🔭 I’m currently working **using MERN stack**
+
+<p>Studying CSE at North South University</p>
 
 - 📫 How to reach me **nifathossain1480@gmail.com**
 
