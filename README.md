@@ -4,9 +4,9 @@
 - 🔭 I’m currently working **using MERN stack**
 
 - 📫 How to reach me **nifathossain1480@gmail.com**
-  <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=NifatHossain)](https://git.io/streak-stats)
-  </div>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=NifatHossain)](https://git.io/streak-stats)
+  
   
 
 <h3 align="left">Connect with me:</h3>
