@@ -1,11 +1,11 @@
-## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=NifatHossain)](https://git.io/streak-stats)
 <h1 align="center">Hello 👋, I'm Nifat Hossain</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
 - 🔭 I’m currently working **using MERN stack**
 
 - 📫 How to reach me **nifathossain1480@gmail.com**
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=NifatHossain)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
