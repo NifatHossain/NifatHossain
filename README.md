@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nifat Hossain</h1>
+<img src="https://i.ibb.co/KWLcPCH/mern.jpg" alt="mern image" />
 
 - 🔭 I’m currently working **using MERN stack**
 
