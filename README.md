@@ -5,7 +5,7 @@
 - 📫 How to reach me **nifathossain1480@gmail.com**
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NifatHossain" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NifatHossain&card_width=600" alt="GitHub Streak" /></a>
 </div>
  
 <h3 align="center">Connect with me:</h3>
