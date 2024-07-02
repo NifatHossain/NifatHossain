@@ -4,7 +4,9 @@
 ## About Me
 - 🔭 I’m currently working **using MERN stack**
 
-<p> 📖 Studying <b>CSE</b> at North South University</p>
+- 📖 Studying **CSE** at North South University
+
+- 🔍 interested in exploring new technologies
 
 - 📫 How to reach me **nifathossain1480@gmail.com**
 
